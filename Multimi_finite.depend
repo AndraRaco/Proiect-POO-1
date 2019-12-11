@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1552821378 source:d:\fmi\multimi_finite\main.cpp
+	<iostream>
+	"Nodul.h"
+	"Liste.h"
+	"Multime.h"
+	"Pereche.h"
+	"Multime_perechi.h"
+
+1552748930 d:\fmi\multimi_finite\nodul.h
+	"Liste.h"
+
+1552733634 source:d:\fmi\multimi_finite\nod_functii.cpp
+	<iostream>
+	"Nodul.h"
+
+1552128502 d:\fmi\multimi_finite\nod_functii.cpp
+	<iostream>
+	"Nodul.h"
+
+1552738586 d:\fmi\multimi_finite\liste.h
+	"Nodul.h"
+	"Multime.h"
+	<iostream>
+
+1552748732 source:d:\fmi\multimi_finite\liste_functii.cpp
+	<iostream>
+	"Nodul.h"
+	"Liste.h"
+
+1552748809 d:\fmi\multimi_finite\multime.h
+	"Nodul.h"
+	"Liste.h"
+	<iostream>
+
+1552748732 source:d:\fmi\multimi_finite\multime_functii.cpp
+	<iostream>
+	"Nodul.h"
+	"Liste.h"
+	"Multime.h"
+
+1552748930 d:\fmi\multimi_finite\pereche.h
+	<iostream>
+	"Multime_perechi.h"
+
+1552821233 d:\fmi\multimi_finite\multime_perechi.h
+	<iostream>
+	"Nodul.h"
+	"Liste.h"
+	"Multime.h"
+	"Pereche.h"
+
+1552748732 source:d:\fmi\multimi_finite\pereche_functii.cpp
+	<iostream>
+	"Nodul.h"
+	"Liste.h"
+	"Multime.h"
+	"Pereche.h"
+
+1552821220 source:d:\fmi\multimi_finite\multime_perechi_functii.cpp
+	<iostream>
+	"Nodul.h"
+	"Liste.h"
+	"Multime.h"
+	"Pereche.h"
+	"Multime_perechi.h"
+
